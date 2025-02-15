@@ -1,0 +1,1 @@
+This repository contains a Tcl procedure that aims to count words in a given string.  However, the procedure demonstrates an unexpected behavior when multiple spaces are present between words, resulting in an inaccurate word count. The solution addresses this issue and improves robustness.
